@@ -10,7 +10,7 @@ keywords = ["oauth", "oauth1"]
 
 [dependencies]
 time = "0.1"
-rand = "0.3"
-url = "1.5"
+rand = "0.6"
+url = "1.7"
 ring = "0.14"
-base64 = "0.7.0"
+base64 = "0.10"
